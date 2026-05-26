@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\atlmfc\include\afx.h(24,1): error C1189: #error:  Building MFC application with /MD[d] (CRT dll version) requires MFC shared dll version. Please #define _AFXDLL or do not use /MD[d]
+  (compiling source file 'Main.cpp')
+  
